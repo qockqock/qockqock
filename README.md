@@ -10,7 +10,7 @@
 ## Technologies
 **Proficient**: Swift, Python, Firebase, GitHub  
 **Knowledgeable**: C, C++  
-**Tools**: XCode, Figma, Notion, VSCode
+**Tools**: Xcode, Figma, Notion, VSCode
 
 <div>
   <img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift">
