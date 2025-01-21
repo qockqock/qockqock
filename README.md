@@ -1,48 +1,26 @@
-<p align = "center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF5722&height=150&section=header&text=&fontSize=70" />
-</p>
-<br>
+# "Everything comes to him who hustles while he waits."
 
-<p align="center">
-  <strong>☁️SNS list☁️</strong><br><br>
-  <a href="https://daesungstudy.tistory.com/" target="_blank">
+<a href="https://daesungstudy.tistory.com/" target="_blank" style="text-decoration: none; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Tistory-FF5722?logo=tistory&logoColor=white" alt="Tistory Badge">
-  </a>
-</p>
+</a>
+<a href="mailto:eogud8203@naver.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-eogud8203@naver.com-0078D4?logo=microsoft-outlook&logoColor=white" alt="Email Badge">
+</a>
 
+## Technologies
+**Proficient**: Swift, Python, Firebase, GitHub  
+**Knowledgeable**: C, C++  
+**Tools**: XCode, Figma, Notion, VSCode
 
-<p align="center">
-  <strong>Email</strong><br>
-  <a href="mailto:eogud8202@gmail.com">eogud8202@gmail.com</a>
-</p>
-
-<p align="center">
-  Hi 👋, I'm This is Daesung Yoon,a developer who codes dreams.
-</p>
-<br><br>
-
-<div align="center">
-  <a href="https://github.com/qockqock">
-    <img src="https://github-readme-stats.vercel.app/api?username=Daesung&show_icons=true&theme=light" alt="GitHub Stats" width="350" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qockqock&layout=compact&theme=light" alt="Top Languages" width="300" height="170" />
-  </a>
+<div>
+  <img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase">
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub">
 </div>
 
-<br>
-<br>
-
-
-<p align="center"><Strong> Tech Stack📚</Strong><br>
-</p>
-
-<p align="center" display="inline-block">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Logo" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Logo" width="60" height="60"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL Logo" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift Logo" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase Logo" width="60" height="60"/>
-
-
-</p>
+## Timeline
+- **(2024.10 ~ )**: Developing the WeClimb community app  
+- **(2024.05 ~ 2024.10)**: Completed the iOS Sparta Bootcamp  
+- **(2022.06 ~ 2022.12)**: Participated in an embedded systems project  
+  - Awarded Bronze Prize at the Korean Institute of Electronics Engineers
